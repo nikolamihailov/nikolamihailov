@@ -1,4 +1,4 @@
-[![MasterHead](https://st2.depositphotos.com/1720162/10652/v/950/depositphotos_106520846-stock-illustration-thin-line-flat-design-banner.jpg)](https://nikolamihailov.io)
+[![MasterHead](https://as2.ftcdn.net/v2/jpg/03/08/82/39/1000_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)](https://nikolamihailov.io)
 <h1 align="center">Hi 👋, I'm Nikola Mihaylov</h1>
 <h3 align="center">A motivated, hard-working, ambitious man who wants to become a Front-end Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
