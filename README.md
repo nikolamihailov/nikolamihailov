@@ -3,9 +3,9 @@
 <h3 align="center">A motivated, hard-working, ambitious man who wants to become a Front-end Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
-- 🌱 I’m currently learning **Udemy courses on HTML, CSS, JS and after that,I am starting React**
+- 🌱 I’m currently learning **Udemy courses on HTML, CSS, JS and after that I am starting Udemy React Course**
 
-- 👨‍💻 My projects are available at [https://nikola-mihaylov.blogspot.com/](https://nikola-mihaylov.blogspot.com/)
+- 👨‍💻 My portfolio website [https://nikola-mihaylov.blogspot.com/](https://nikola-mihaylov.blogspot.com/)
 
 - 📫 How to reach me **nikolam06@abv.bg**
 
