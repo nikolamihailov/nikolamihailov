@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Udemy courses on HTML, CSS, JS and after that I am starting Udemy React Course**
 
-- 👨‍💻 My portfolio website [https://nikola-mihaylov.blogspot.com/](https://nikola-mihaylov.blogspot.com/)
+- 👨‍💻 My portfolio website:  [https://nikola-mihaylov.blogspot.com/](https://nikola-mihaylov.blogspot.com/)
 
-- 📫 How to reach me **nikolam06@abv.bg**
+- 📫 How to reach me:  **nikolam06@abv.bg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
