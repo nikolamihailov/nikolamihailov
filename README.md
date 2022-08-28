@@ -1,7 +1,7 @@
 [![MasterHead](https://as2.ftcdn.net/v2/jpg/03/08/82/39/1000_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)](https://nikolamihailov.io)
 <h1 align="center">Hi 👋, I'm Nikola Mihaylov</h1>
 <h3 align="center">A motivated, hard-working, ambitious man who wants to become a Front-end Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
+<img align="center" alt="Coding"  src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 - 🌱 I’m currently learning **Udemy courses on HTML, CSS, JS and after that I am starting Udemy React Course**
 
@@ -21,5 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolamihailov&show_icons=true&locale=en&layout=compact" alt="nikolamihailov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikolamihailov&show_icons=true&locale=en" alt="nikolamihailov" /></p>
+
 
