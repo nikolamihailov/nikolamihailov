@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nikola Mihaylov!</h1>
 <h3 align="center">A motivated, hard-working, ambitious man who wants to become a Front-end Developer</h3>
-<img align="right" alt="Coding" width="300"  src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
+<img align="right" alt="Coding" width="280"  src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
 - 🌱 I’m currently learning SoftUni JS path and Udemy JS course. 
 
