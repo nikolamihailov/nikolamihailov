@@ -3,7 +3,7 @@
 <h2 align="center">A motivated, hard-working, ambitious man who wants to become a Front-end Developer.</h2>
 <img align="right" alt="Coding gif" width="260" height="150"  src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
-- 🌱 I’m currently learning - React, Node.js, Express.js, MongoDB. 
+- 🌱 I’m currently learning - React, Node.js, Express.js, MongoDB
 
 - 👨‍💻 My portfolio website:  [https://nikola-mihaylov.blogspot.com/](https://nikola-mihaylov.blogspot.com/)
 
