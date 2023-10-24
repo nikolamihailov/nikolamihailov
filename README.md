@@ -17,9 +17,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,expressjs,mongodb,php,wordpress,vscode,java,mysql,eclipse)](https://skillicons.dev)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nikolamihailov&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolamihailov&layout=compact&theme=cobalt&hide_border=true"/>
-
+<p align="center">
+<a href="https://github.com/nikolamihailov?tab=repositories"><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=nikolamihailov&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="@nikolamihailov's github-readme-stats" /></a>
+<a href="https://github.com/nikolamihailov?tab=repositories"><img align="center" width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=nikolamihailov&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  alt="@nikolamihailov's github-readme-stats"/></a>
+</p>
+<p align="center">
+<a href="https://github.com/nikolamihailov?tab=repositories"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolamihailov&layout=compact&theme=gotham&hide_border=true" alt="@nikolamihailov's github-readme-stats"/></a>
+</p>
 
 
 
