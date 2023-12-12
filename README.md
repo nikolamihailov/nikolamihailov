@@ -7,7 +7,7 @@
 
 - 👨‍💻 My portfolio website:  [https://nikola-mihaylov.blogspot.com/](https://nikola-mihaylov.blogspot.com/)
 
-- 📫 How to reach me:  nikolam06@abv.bg
+- 📫 How to reach me:  nikolam0612@gmail.com
 
 <h2 align="left">Connect with me:</h2>
 
