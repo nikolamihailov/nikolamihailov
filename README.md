@@ -9,10 +9,6 @@
 
 - 📫 How to reach me:  nikolam0612@gmail.com
 
-<h2 align="left">Connect with me:</h2>
-
-[![My socials](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-
 <h2 align="left">Languages and Tools:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,expressjs,mongodb,php,wordpress,vscode,java,mysql,eclipse)](https://skillicons.dev)
