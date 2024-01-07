@@ -11,7 +11,7 @@
 
 <h2 align="left">Connect with me:</h2>
 
-[![My socials](https://skillicons.dev/icons?i=linkedin,instagram)](https://skillicons.dev)
+[![My socials](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 <h2 align="left">Languages and Tools:</h2>
 
