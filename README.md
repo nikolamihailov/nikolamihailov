@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: React.js, Node.js, Express.js, MongoDB(mongoose), TypeScript, Tailwind CSS
   
-- 📚 Eager to explore new technologies and frameworks as well as other fields like AI, Data Analytics, Digital Marketing
+- 📚 Eager to explore new technologies and frameworks as well as other fields like AI, UX/UI, Digital Marketing
 
 - 👨‍💻 My portfolio website:  [https://nikola-mihaylov.blogspot.com/](https://nikola-mihaylov.blogspot.com/)
 
