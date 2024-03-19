@@ -2,6 +2,7 @@
 <h2 align="center">A motivated, hard-working, ambitious man who wants to become a Front-end Developer.</h2>
 <img align="right" alt="Coding gif" width="260" height="160"  src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
+
 - 🌱 I’m currently learning: React.js, Node.js, Express.js, MongoDB(mongoose), TypeScript, Tailwind CSS
   
 - 📚 Eager to master the depths of the world of Web and explore variety of new technologies and frameworks as well as other fields like AI, UX/UI, Digital Marketing
