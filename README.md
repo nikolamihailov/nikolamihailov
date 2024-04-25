@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikola Mihaylov!</h1>
+<h1 align="center">Hi👋, I'm Nikola Mihaylov!</h1>
 <h2 align="center">A motivated, hard-working, ambitious man who wants to become a Front-end Developer.</h2>
 <img align="right" alt="Coding gif" width="250" height="160" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
