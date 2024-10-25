@@ -21,10 +21,3 @@
 <p align="center">
 <a href="https://github.com/nikolamihailov?tab=repositories"><img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolamihailov&layout=compact&theme=gotham&hide_border=true" alt="@nikolamihailov's github-readme-stats"/></a>
 </p>
-
-
-
-
-
-
-
