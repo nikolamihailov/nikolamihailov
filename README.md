@@ -12,7 +12,7 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,expressjs,mongodb,vscode,java,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css,scss,nodejs,expressjs,mongodb,vscode,java,mysql)](https://skillicons.dev)
 
 <p align="center">
 <a href="https://github.com/nikolamihailov?tab=repositories"><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=nikolamihailov&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="@nikolamihailov's github-readme-stats" /></a>
