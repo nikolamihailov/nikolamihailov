@@ -6,7 +6,7 @@
   
 - 📚 Eager to master the depths of the world of Web and explore variety of new technologies and frameworks
 
-- 👨‍💻 My portfolio website: [https://koleto.eu/)
+- 👨‍💻 My portfolio website: https://koleto.eu/
 
 - 📫 How to reach me: nikolam0612@gmail.com
 
